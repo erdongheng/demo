@@ -1,0 +1,12 @@
+baseURL = "http://erdongheng.com"
+#languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:month/:day/:filename"
+
+[taxonomies]
+    tag = "tags"
+archive = "archives"
+
