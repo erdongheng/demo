@@ -5,10 +5,19 @@
     <link>https://erdongheng.com/demo/archives/2018/</link>
     <description>Recent content in 2018 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Sep 2018 18:57:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Sep 2018 22:50:37 +0800</lastBuildDate>
     
 	<atom:link href="https://erdongheng.com/demo/archives/2018/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Meaningful Weekend</title>
+      <link>https://erdongheng.com/demo/2018/09/02/a-meaningful-weekend/</link>
+      <pubDate>Sun, 02 Sep 2018 22:50:37 +0800</pubDate>
+      
+      <guid>https://erdongheng.com/demo/2018/09/02/a-meaningful-weekend/</guid>
+      <description>时隔两周，终于在Bruce的帮助下成功搭出了博客，开心。</description>
+    </item>
     
     <item>
       <title>Readme</title>
