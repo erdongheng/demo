@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on My New Hugo Site</title>
-    <link>http://erdongheng.com/archives/2018/</link>
+    <link>http://erdongheng.com/demo/archives/2018/</link>
     <description>Recent content in 2018 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 02 Sep 2018 18:01:42 +0800</lastBuildDate>
     
-	<atom:link href="http://erdongheng.com/archives/2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://erdongheng.com/demo/archives/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://erdongheng.com/2018/09/02/test/</link>
+      <link>http://erdongheng.com/demo/2018/09/02/test/</link>
       <pubDate>Sun, 02 Sep 2018 18:01:42 +0800</pubDate>
       
-      <guid>http://erdongheng.com/2018/09/02/test/</guid>
+      <guid>http://erdongheng.com/demo/2018/09/02/test/</guid>
       <description>title this is a test article.
 二级标题  list1 list2   引用 by &amp;hellip;
  import os os.getcwd  加粗

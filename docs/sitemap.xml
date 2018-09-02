@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://erdongheng.com/about/</loc>
+    <loc>http://erdongheng.com/demo/about/</loc>
     <lastmod>2018-09-02T18:19:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://erdongheng.com/2018/09/02/test/</loc>
+    <loc>http://erdongheng.com/demo/2018/09/02/test/</loc>
     <lastmod>2018-09-02T18:01:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://erdongheng.com/archives/2018/</loc>
-    <lastmod>2018-09-02T18:01:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://erdongheng.com/archives/</loc>
+    <loc>http://erdongheng.com/demo/archives/2018/</loc>
     <lastmod>2018-09-02T18:01:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erdongheng.com/tags/life/</loc>
+    <loc>http://erdongheng.com/demo/archives/</loc>
     <lastmod>2018-09-02T18:01:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erdongheng.com/</loc>
+    <loc>http://erdongheng.com/demo/tags/life/</loc>
+    <lastmod>2018-09-02T18:01:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erdongheng.com/demo/</loc>
     <lastmod>2018-09-02T18:19:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erdongheng.com/post/</loc>
+    <loc>http://erdongheng.com/demo/post/</loc>
     <lastmod>2018-09-02T18:01:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://erdongheng.com/tags/</loc>
+    <loc>http://erdongheng.com/demo/tags/</loc>
     <lastmod>2018-09-02T18:01:42+08:00</lastmod>
     <priority>0</priority>
   </url>
